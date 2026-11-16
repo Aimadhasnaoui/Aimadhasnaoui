@@ -21,8 +21,8 @@ Développeur **Full Stack** basé à **Agadir, Maroc** 🇲🇦 — je construis
 
 | Projet | Description | Stack |
 |---|---|---|
-| **Raed Tawjih** — [Android](https://play.google.com/store/apps/details?id=com.aimadhas.EmptyExpoProject) · [iOS](https://apps.apple.com/ma/app/raed-tawjih/id6757946501) · [Admin web](https://eduinscrire.online/) | Solution complète d'orientation post-bac : app mobile publiée sur Google Play et l'App Store (100+ téléchargements), plateforme web d'administration (étudiants, écoles, candidatures) et API avec notifications push | React Native · Expo · React 19 · TanStack Query · Node.js · Express · MongoDB |
-| **Raid Platform** — [Site](https://raidcore.site/) | Plateforme de gestion pour un centre de soutien scolaire : calendrier, tableaux de bord et statistiques, temps réel, QR codes, exports Excel, déploiement automatisé (CI/CD) | React · MUI · Node.js · Express · MongoDB · Socket.io · GitHub Actions |
+| **Raed Tawjih** — [Android](https://play.google.com/store/apps/details?id=com.aimadhas.EmptyExpoProject) · [iOS](https://apps.apple.com/ma/app/raed-tawjih/id6757946501) ·| Solution complète d'orientation post-bac : app mobile publiée sur Google Play et l'App Store (100+ téléchargements), plateforme web d'administration (étudiants, écoles, candidatures) et API avec notifications push | React Native · Expo · React 19 · TanStack Query · Node.js · Express · MongoDB |
+| **Raid Platform** — | Plateforme de gestion pour un centre de soutien scolaire : calendrier, tableaux de bord et statistiques, temps réel, QR codes, exports Excel, déploiement automatisé (CI/CD) | React · MUI · Node.js · Express · MongoDB · Socket.io · GitHub Actions |
 
 > 🔒 Projets réalisés pour des clients : le code source est privé.
 
