@@ -1,40 +1,32 @@
-# Salut, moi c'est Aimad 👋
+## Salut, moi c'est Aimad 👋
 
-Développeur **Full Stack** basé à **Agadir, Maroc** 🇲🇦 — je construis des applications web et mobiles de bout en bout avec **React**, **React Native** et **Node.js**.
+Je suis développeur full-stack à Agadir. Depuis 2024, je travaille chez Green Solutions, surtout en React, React Native et Node.js. J'ai terminé ma licence en développement informatique à l'EFET Agadir en 2026.
 
-- 💼 Développeur Full Stack chez **Green Solutions** depuis 2024
-- 🎓 Licence en Développement Informatique — L'EFET Agadir (2026)
-- 🌱 En ce moment : architecture backend, system design et algorithmes
-- 📫 Ouvert aux opportunités full-stack (CDI)
+Ce que je préfère, c'est prendre un projet depuis zéro et le mener jusqu'en production : l'app, l'API, la base de données, et le serveur derrière. En ce moment je creuse le backend : architecture, system design, et un peu d'algo tous les jours.
 
-## 🛠️ Stack
+Je cherche un poste full-stack en CDI. Si vous avez quelque chose qui pourrait coller, écrivez-moi sur [LinkedIn](https://www.linkedin.com/in/aimad-hasnaoui-860430245/).
 
-| Domaine | Technologies |
-|---|---|
-| Frontend | React · Next.js · Tailwind CSS · TanStack Query · MUI · shadcn/ui |
-| Mobile | React Native · Expo |
-| Backend | Node.js · Express · API REST · JWT · Socket.io |
-| Bases de données | MongoDB · PostgreSQL · MySQL |
-| Outils & déploiement | Git · GitHub Actions (CI/CD) · Nginx · PM2 · VPS |
+### Avec quoi je travaille
 
-## 🚀 Projets en production
+Au quotidien : **React**, **React Native (Expo)**, **Node.js / Express** et **MongoDB**.
 
-| Projet | Description | Stack |
-|---|---|---|
-| **Raed Tawjih** — [Android](https://play.google.com/store/apps/details?id=com.aimadhas.EmptyExpoProject) · [iOS](https://apps.apple.com/ma/app/raed-tawjih/id6757946501) ·| Solution complète d'orientation post-bac : app mobile publiée sur Google Play et l'App Store (100+ téléchargements), plateforme web d'administration (étudiants, écoles, candidatures) et API avec notifications push | React Native · Expo · React 19 · TanStack Query · Node.js · Express · MongoDB |
-| **Raid Platform** — | Plateforme de gestion pour un centre de soutien scolaire : calendrier, tableaux de bord et statistiques, temps réel, QR codes, exports Excel, déploiement automatisé (CI/CD) | React · MUI · Node.js · Express · MongoDB · Socket.io · GitHub Actions |
+J'ai aussi utilisé Next.js, TypeScript, PostgreSQL, MySQL, Socket.io, Tailwind, MUI, shadcn/ui et TanStack Query.
 
-> 🔒 Projets réalisés pour des clients : le code source est privé.
+Côté déploiement, je gère mes propres VPS avec Nginx et PM2, et j'automatise les mises en ligne avec GitHub Actions.
 
-## 📂 Autres projets
+### Ce qui tourne en production
 
-| Projet | Description | Stack |
-|---|---|---|
-| [**StorePilot**](https://github.com/Aimadhasnaoui/BESTMARK) | Gestion complète d'un commerce : stock, ventes, achats, employés et rapport financier | React · Node.js · Express · MongoDB |
-| **FitCore** — [Web](https://github.com/Aimadhasnaoui/Gym-Management-System) · [Mobile](https://github.com/Aimadhasnaoui/GymAPP) | Gestion de salle de sport : membres, abonnements, check-in et espace membre | React · React Native · Node.js · MongoDB |
-| [**Give Donation**](https://github.com/Aimadhasnaoui/give-donation) | Plateforme qui met en relation associations et donateurs : événements et dons | React · Node.js · MongoDB |
-| [**API Design**](https://github.com/Aimadhasnaoui/API_Desgine_NodeJs) | API REST en TypeScript avec PostgreSQL et Drizzle ORM | TypeScript · Express · PostgreSQL |
+**Raed Tawjih** ([Android](https://play.google.com/store/apps/details?id=com.aimadhas.EmptyExpoProject) · [iOS](https://apps.apple.com/ma/app/raed-tawjih/id6757946501))
+Une app pour aider les bacheliers à choisir leur orientation. Elle a dépassé les 100 téléchargements. J'ai fait l'app mobile, le dashboard admin (étudiants, écoles, candidatures) et l'API avec les notifications push.
 
-## 📫 Me contacter
+**Raid Platform**
+L'outil de gestion d'un centre de soutien scolaire : planning, statistiques, mises à jour en temps réel, QR codes et exports Excel. Chaque push sur `main` part en production tout seul.
 
-[LinkedIn](https://www.linkedin.com/in/aimad-hasnaoui-860430245/)
+Ce sont des projets clients, donc le code est privé. Je peux en parler plus en détail si ça vous intéresse.
+
+### D'autres projets
+
+- [**StorePilot**](https://github.com/Aimadhasnaoui/BESTMARK) : gestion d'un commerce (stock, ventes, achats, employés et bilan financier).
+- **FitCore** ([Web](https://github.com/Aimadhasnaoui/Gym-Management-System) · [Mobile](https://github.com/Aimadhasnaoui/GymAPP)) : gestion d'une salle de sport, avec un site pour l'admin et une app où les membres suivent leur abonnement et font leur check-in.
+- [**Give Donation**](https://github.com/Aimadhasnaoui/give-donation) : une plateforme qui met en contact associations et donateurs.
+- [**API Design**](https://github.com/Aimadhasnaoui/API_Desgine_NodeJs) : une API REST en TypeScript, faite pour m'entraîner avec PostgreSQL et Drizzle ORM.
